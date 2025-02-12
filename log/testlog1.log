@@ -1,0 +1,361 @@
+2024-12-11 22:00:31,229 [main] INFO CPB Stage - open stage site
+2024-12-12 19:35:10,832 [main] INFO CPB Stage - open stage site
+2024-12-12 20:13:34,454 [main] INFO CPBStage - open stage site
+2024-12-12 20:34:40,489 [main] INFO CPBStage - open stage site
+2024-12-12 20:34:40,603 [main] INFO CPBStage - switch to iFrame
+2024-12-12 20:34:48,296 [main] INFO CPBStage - click Edit
+2024-12-12 20:34:48,463 [main] INFO CPBStage - click Admin Mode
+2024-12-12 20:34:58,183 [main] INFO CPBStage - click on New Custom Option
+2024-12-12 20:34:58,607 [main] INFO CPBStage - test failed
+2024-12-12 21:02:35,449 [main] INFO CPBStage - open stage site
+2024-12-12 21:02:35,571 [main] INFO CPBStage - switch to iFrame
+2024-12-12 21:02:42,217 [main] INFO CPBStage - click Edit
+2024-12-12 21:02:42,879 [main] INFO CPBStage - click Admin Mode
+2024-12-12 21:02:45,147 [main] INFO CPBStage - click on New Custom Option
+2024-12-12 21:02:45,566 [main] INFO CPBStage - test failed
+2024-12-12 21:03:52,304 [main] INFO CPBStage - open stage site
+2024-12-12 21:03:52,430 [main] INFO CPBStage - switch to iFrame
+2024-12-12 21:04:05,717 [main] INFO CPBStage - click Edit
+2024-12-12 21:04:05,919 [main] INFO CPBStage - click Admin Mode
+2024-12-12 21:04:08,772 [main] INFO CPBStage - click on New Custom Option
+2024-12-12 21:04:09,191 [main] INFO CPBStage - test failed
+2024-12-12 21:06:54,592 [main] INFO CPBStage - open stage site
+2024-12-12 21:06:54,716 [main] INFO CPBStage - switch to iFrame
+2024-12-12 21:07:03,919 [main] INFO CPBStage - click Edit
+2024-12-12 21:07:04,124 [main] INFO CPBStage - click Admin Mode
+2024-12-12 21:07:06,406 [main] INFO CPBStage - click on New Custom Option
+2024-12-12 21:07:06,642 [main] INFO CPBStage - test failed
+2024-12-12 21:17:33,684 [main] INFO CPBStage - open stage site
+2024-12-12 21:17:33,842 [main] INFO CPBStage - switch to iFrame
+2024-12-12 21:17:41,284 [main] INFO CPBStage - click Edit
+2024-12-12 21:17:41,417 [main] INFO CPBStage - click Admin Mode
+2024-12-12 21:17:43,720 [main] INFO CPBStage - click on New Custom Option
+2024-12-12 21:17:44,396 [main] INFO CPBStage - test failed
+2024-12-12 21:24:08,163 [main] INFO CPBStage - open stage site
+2024-12-12 21:24:08,268 [main] INFO CPBStage - switch to iFrame
+2024-12-12 21:24:11,483 [main] INFO CPBStage - click Edit
+2024-12-12 21:29:06,450 [main] INFO CPBStage - open stage site
+2024-12-12 21:29:06,556 [main] INFO CPBStage - switch to iFrame
+2024-12-12 21:29:09,744 [main] INFO CPBStage - click Edit
+2024-12-12 21:30:41,274 [main] INFO CPBStage - open stage site
+2024-12-12 21:30:41,379 [main] INFO CPBStage - switch to iFrame
+2024-12-12 21:30:48,235 [main] INFO CPBStage - click Edit
+2024-12-12 21:30:48,916 [main] INFO CPBStage - click Admin Mode
+2024-12-12 21:32:58,093 [main] INFO CPBStage - open stage site
+2024-12-12 21:32:58,232 [main] INFO CPBStage - switch to iFrame
+2024-12-12 21:33:05,246 [main] INFO CPBStage - click Edit
+2024-12-12 21:33:05,527 [main] INFO CPBStage - click Admin Mode
+2024-12-12 21:33:07,817 [main] INFO CPBStage - click on New Custom Option
+2024-12-12 21:33:08,338 [main] INFO CPBStage - test failed
+2024-12-12 21:50:28,701 [main] INFO CPBStage - open stage site
+2024-12-12 21:50:28,796 [main] INFO CPBStage - switch to iFrame
+2024-12-12 21:50:36,589 [main] INFO CPBStage - click Edit
+2024-12-12 21:50:36,740 [main] INFO CPBStage - click Admin Mode
+2024-12-12 21:50:39,548 [main] INFO CPBStage - click on reorder toggle
+2024-12-12 21:50:39,817 [main] INFO CPBStage - Reorder Mode is ON text presented
+2024-12-12 21:50:39,818 [main] INFO CPBStage - Test passed
+2024-12-12 21:52:47,530 [main] INFO CPBStage - open stage site
+2024-12-12 21:52:47,650 [main] INFO CPBStage - switch to iFrame
+2024-12-12 21:52:54,046 [main] INFO CPBStage - click Edit
+2024-12-12 21:52:54,189 [main] INFO CPBStage - click Admin Mode
+2024-12-12 21:52:56,440 [main] INFO CPBStage - click on New Custom Option
+2024-12-12 21:52:56,952 [main] INFO CPBStage - test failed
+2024-12-12 21:53:05,417 [main] INFO CPBStage - open stage site
+2024-12-12 21:53:05,472 [main] INFO CPBStage - switch to iFrame
+2024-12-12 21:53:12,132 [main] INFO CPBStage - click Edit
+2024-12-12 21:53:12,775 [main] INFO CPBStage - click Admin Mode
+2024-12-12 21:53:14,452 [main] INFO CPBStage - click on reorder toggle
+2024-12-12 21:53:14,595 [main] INFO CPBStage - Reorder Mode is ON text presented
+2024-12-12 21:53:14,595 [main] INFO CPBStage - Test passed
+2024-12-12 22:15:57,485 [main] INFO CPBStage - open stage site
+2024-12-12 22:15:57,608 [main] INFO CPBStage - switch to iFrame
+2024-12-12 22:16:51,848 [main] INFO CPBStage - open stage site
+2024-12-12 22:16:51,901 [main] INFO CPBStage - switch to iFrame
+2024-12-18 22:09:02,054 [main] INFO CPBStage - open stage site
+2024-12-18 22:09:02,213 [main] INFO CPBStage - switch to iFrame
+2024-12-18 22:09:10,939 [main] INFO CPBStage - click Edit
+2024-12-18 22:09:11,031 [main] INFO CPBStage - click Admin Mode
+2024-12-18 22:09:13,814 [main] INFO CPBStage - click on New Custom Option
+2024-12-18 22:09:14,261 [main] INFO CPBStage - test failed
+2024-12-25 19:38:13,535 [main] INFO CPBStage - open stage site
+2024-12-25 19:38:13,669 [main] INFO CPBStage - switch to iFrame
+2024-12-25 19:38:20,922 [main] INFO CPBStage - click Edit
+2024-12-25 19:38:21,567 [main] INFO CPBStage - click Admin Mode
+2024-12-25 19:38:23,816 [main] INFO CPBStage - click on reorder toggle
+2024-12-25 19:38:24,052 [main] INFO CPBStage - Reorder Mode is ON text presented
+2024-12-25 19:38:24,052 [main] INFO CPBStage - Test passed
+2024-12-25 19:38:57,987 [main] INFO CPBStage - open stage site
+2024-12-25 19:38:58,110 [main] INFO CPBStage - switch to iFrame
+2024-12-25 19:39:04,711 [main] INFO CPBStage - click Edit
+2024-12-25 19:39:04,849 [main] INFO CPBStage - click Admin Mode
+2024-12-25 19:39:07,677 [main] INFO CPBStage - click on New Custom Option
+2024-12-25 19:39:08,186 [main] INFO CPBStage - test failed
+2024-12-25 20:41:49,488 [main] INFO CPBStage - open stage site
+2024-12-25 20:41:49,610 [main] INFO CPBStage - switch to iFrame
+2024-12-25 20:41:56,203 [main] INFO CPBStage - click Edit
+2024-12-25 20:41:56,326 [main] INFO CPBStage - click Admin Mode
+2024-12-25 20:41:58,598 [main] INFO CPBStage - click on New Custom Option
+2024-12-25 20:41:59,070 [main] INFO CPBStage - test failed
+2024-12-25 20:42:07,785 [main] INFO CPBStage - open stage site
+2024-12-25 20:42:07,827 [main] INFO CPBStage - switch to iFrame
+2024-12-25 20:42:14,294 [main] INFO CPBStage - click Edit
+2024-12-25 20:42:14,928 [main] INFO CPBStage - click Admin Mode
+2024-12-25 20:42:17,201 [main] INFO CPBStage - click on reorder toggle
+2024-12-25 20:42:17,434 [main] INFO CPBStage - Reorder Mode is ON text presented
+2024-12-25 20:42:17,434 [main] INFO CPBStage - Test passed
+2025-01-02 15:16:36,963 [main] INFO CPBStage - open stage site
+2025-01-02 15:16:37,085 [main] INFO CPBStage - switch to iFrame
+2025-01-02 15:16:44,355 [main] INFO CPBStage - click Edit
+2025-01-02 15:16:44,470 [main] INFO CPBStage - click Admin Mode
+2025-01-02 15:16:47,279 [main] INFO CPBStage - click on New Custom Option
+2025-01-02 15:16:47,767 [main] INFO CPBStage - test failed
+2025-01-02 15:16:57,284 [main] INFO CPBStage - open stage site
+2025-01-02 15:16:57,334 [main] INFO CPBStage - switch to iFrame
+2025-01-02 15:17:04,753 [main] INFO CPBStage - click Edit
+2025-01-02 15:17:04,950 [main] INFO CPBStage - click Admin Mode
+2025-01-02 15:17:07,194 [main] INFO CPBStage - click on reorder toggle
+2025-01-02 15:17:07,392 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-02 15:17:07,392 [main] INFO CPBStage - Test passed
+2025-01-03 23:02:23,254 [main] INFO CPBStage - open stage site
+2025-01-03 23:02:23,382 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:02:29,887 [main] INFO CPBStage - click Edit
+2025-01-03 23:02:33,031 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:02:36,208 [main] INFO CPBStage - click on New Custom Option
+2025-01-03 23:02:36,626 [main] INFO CPBStage - test failed
+2025-01-03 23:04:08,774 [main] INFO CPBStage - open stage site
+2025-01-03 23:04:11,908 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:04:18,405 [main] INFO CPBStage - click Edit
+2025-01-03 23:04:21,568 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:04:24,697 [main] INFO CPBStage - click on reorder toggle
+2025-01-03 23:04:27,974 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-03 23:04:27,976 [main] INFO CPBStage - Test passed
+2025-01-03 23:17:28,803 [main] INFO CPBStage - open stage site
+2025-01-03 23:17:31,930 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:17:38,584 [main] INFO CPBStage - click Edit
+2025-01-03 23:17:41,701 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:17:44,840 [main] INFO CPBStage - click on reorder toggle
+2025-01-03 23:17:48,182 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-03 23:17:48,184 [main] INFO CPBStage - Test passed
+2025-01-03 23:21:58,289 [main] INFO CPBStage - open stage site
+2025-01-03 23:22:01,450 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:24:23,284 [main] INFO CPBStage - open stage site
+2025-01-03 23:24:23,400 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:24:33,371 [main] INFO CPBStage - click Edit
+2025-01-03 23:24:36,552 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:24:39,710 [main] INFO CPBStage - click on New Custom Option
+2025-01-03 23:24:40,205 [main] INFO CPBStage - test failed
+2025-01-03 23:25:15,439 [main] INFO CPBStage - open stage site
+2025-01-03 23:25:18,575 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:25:48,833 [main] INFO CPBStage - click Edit
+2025-01-03 23:25:51,980 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:25:55,085 [main] INFO CPBStage - click on reorder toggle
+2025-01-03 23:25:58,366 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-03 23:25:58,368 [main] INFO CPBStage - Test passed
+2025-01-03 23:31:42,627 [main] INFO CPBStage - open stage site
+2025-01-03 23:31:45,774 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:31:52,338 [main] INFO CPBStage - click Edit
+2025-01-03 23:31:55,454 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:31:58,614 [main] INFO CPBStage - click on reorder toggle
+2025-01-03 23:32:01,992 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-03 23:32:01,994 [main] INFO CPBStage - Test passed
+2025-01-03 23:33:08,051 [main] INFO CPBStage - open stage site
+2025-01-03 23:33:11,166 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:33:17,761 [main] INFO CPBStage - click Edit
+2025-01-03 23:33:20,963 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:33:24,123 [main] INFO CPBStage - click on reorder toggle
+2025-01-03 23:33:27,481 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-03 23:33:27,483 [main] INFO CPBStage - Test passed
+2025-01-03 23:36:30,700 [main] INFO CPBStage - open stage site
+2025-01-03 23:36:33,863 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:36:40,259 [main] INFO CPBStage - click Edit
+2025-01-03 23:36:43,385 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:36:46,542 [main] INFO CPBStage - click on reorder toggle
+2025-01-03 23:36:49,857 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-03 23:36:49,860 [main] INFO CPBStage - Test passed
+2025-01-03 23:37:34,153 [main] INFO CPBStage - open stage site
+2025-01-03 23:37:37,277 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:37:43,518 [main] INFO CPBStage - click Edit
+2025-01-03 23:37:46,655 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:37:49,780 [main] INFO CPBStage - click on reorder toggle
+2025-01-03 23:37:53,092 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-03 23:37:53,094 [main] INFO CPBStage - Test passed
+2025-01-03 23:43:07,183 [main] INFO CPBStage - open stage site
+2025-01-03 23:43:10,331 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:43:16,960 [main] INFO CPBStage - click Edit
+2025-01-03 23:43:20,078 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:43:23,219 [main] INFO CPBStage - click on reorder toggle
+2025-01-03 23:43:26,580 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-03 23:43:26,582 [main] INFO CPBStage - Test passed
+2025-01-03 23:44:20,408 [main] INFO CPBStage - open stage site
+2025-01-03 23:44:23,507 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:44:29,942 [main] INFO CPBStage - click Edit
+2025-01-03 23:44:33,077 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:44:36,204 [main] INFO CPBStage - click on reorder toggle
+2025-01-03 23:44:39,527 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-03 23:44:39,530 [main] INFO CPBStage - Test passed
+2025-01-03 23:54:03,500 [main] INFO CPBStage - open stage site
+2025-01-03 23:54:03,629 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:54:17,280 [main] INFO CPBStage - click Edit
+2025-01-03 23:54:20,771 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:54:23,999 [main] INFO CPBStage - click on New Custom Option
+2025-01-03 23:54:24,443 [main] INFO CPBStage - test failed
+2025-01-03 23:55:23,753 [main] INFO CPBStage - open stage site
+2025-01-03 23:55:26,879 [main] INFO CPBStage - switch to iFrame
+2025-01-03 23:55:40,472 [main] INFO CPBStage - click Edit
+2025-01-03 23:55:43,599 [main] INFO CPBStage - click Admin Mode
+2025-01-03 23:55:49,523 [main] INFO CPBStage - click on reorder toggle
+2025-01-03 23:55:52,781 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-03 23:55:52,782 [main] INFO CPBStage - Test passed
+2025-01-04 00:13:53,437 [main] INFO CPBStage - open stage site
+2025-01-04 00:13:53,550 [main] INFO CPBStage - switch to iFrame
+2025-01-04 00:20:28,266 [main] INFO CPBStage - open stage site
+2025-01-04 00:20:28,362 [main] INFO CPBStage - switch to iFrame
+2025-01-04 00:22:55,036 [main] INFO CPBStage - open stage site
+2025-01-04 00:22:55,152 [main] INFO CPBStage - switch to iFrame
+2025-01-04 00:27:03,741 [main] INFO CPBStage - open stage site
+2025-01-04 00:27:03,854 [main] INFO CPBStage - switch to iFrame
+2025-01-04 00:30:21,098 [main] INFO CPBStage - open stage site
+2025-01-04 00:30:21,194 [main] INFO CPBStage - switch to iFrame
+2025-01-04 00:31:17,574 [main] INFO CPBStage - open stage site
+2025-01-04 00:31:17,656 [main] INFO CPBStage - switch to iFrame
+2025-01-04 00:31:27,887 [main] INFO CPBStage - clone
+2025-01-04 00:32:00,654 [main] INFO CPBStage - open stage site
+2025-01-04 00:32:00,753 [main] INFO CPBStage - switch to iFrame
+2025-01-04 00:32:11,136 [main] INFO CPBStage - clone
+2025-01-04 17:43:52,201 [main] INFO CPBStage - open stage site
+2025-01-04 17:43:52,347 [main] INFO CPBStage - switch to iFrame
+2025-01-04 17:44:02,590 [main] INFO CPBStage - clone
+2025-01-04 17:46:08,254 [main] INFO CPBStage - open stage site
+2025-01-04 17:46:08,370 [main] INFO CPBStage - switch to iFrame
+2025-01-04 17:46:23,654 [main] INFO CPBStage - clone
+2025-01-04 17:47:51,033 [main] INFO CPBStage - open stage site
+2025-01-04 17:47:51,123 [main] INFO CPBStage - switch to iFrame
+2025-01-04 17:48:16,404 [main] INFO CPBStage - clone
+2025-01-04 17:51:23,033 [main] INFO CPBStage - open stage site
+2025-01-04 17:51:23,223 [main] INFO CPBStage - switch to iFrame
+2025-01-04 17:51:48,657 [main] INFO CPBStage - clone
+2025-01-04 17:57:52,674 [main] INFO CPBStage - open stage site
+2025-01-04 17:57:52,854 [main] INFO CPBStage - switch to iFrame
+2025-01-04 17:58:18,236 [main] INFO CPBStage - clone
+2025-01-06 13:28:23,377 [main] INFO CPBStage - open stage site
+2025-01-06 13:28:23,489 [main] INFO CPBStage - switch to iFrame
+2025-01-06 13:28:48,754 [main] INFO CPBStage - Clone
+2025-01-06 13:42:28,314 [main] INFO CPBStage - open stage site
+2025-01-06 13:42:28,425 [main] INFO CPBStage - switch to iFrame
+2025-01-06 13:42:53,658 [main] INFO CPBStage - Clone
+2025-01-06 13:43:27,260 [main] INFO CPBStage - Delete Clone
+2025-01-06 13:45:41,119 [main] INFO CPBStage - open stage site
+2025-01-06 13:45:41,222 [main] INFO CPBStage - switch to iFrame
+2025-01-06 13:45:54,849 [main] INFO CPBStage - click Edit
+2025-01-06 13:45:57,987 [main] INFO CPBStage - click Admin Mode
+2025-01-06 13:46:01,177 [main] INFO CPBStage - click on New Custom Option
+2025-01-06 13:46:01,664 [main] INFO CPBStage - test failed
+2025-01-06 13:46:10,360 [main] INFO CPBStage - open stage site
+2025-01-06 13:46:13,443 [main] INFO CPBStage - switch to iFrame
+2025-01-06 13:46:26,979 [main] INFO CPBStage - click Edit
+2025-01-06 13:46:30,097 [main] INFO CPBStage - click Admin Mode
+2025-01-06 13:46:33,236 [main] INFO CPBStage - click on reorder toggle
+2025-01-06 13:46:36,469 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-06 13:46:36,469 [main] INFO CPBStage - Test passed
+2025-01-06 13:47:33,505 [main] INFO CPBStage - open stage site
+2025-01-06 13:47:33,602 [main] INFO CPBStage - switch to iFrame
+2025-01-06 13:47:47,285 [main] INFO CPBStage - click Edit
+2025-01-06 13:47:50,458 [main] INFO CPBStage - click Admin Mode
+2025-01-06 13:47:53,658 [main] INFO CPBStage - click on New Custom Option
+2025-01-06 13:47:54,070 [main] INFO CPBStage - test failed
+2025-01-06 13:48:02,856 [main] INFO CPBStage - open stage site
+2025-01-06 13:48:06,125 [main] INFO CPBStage - switch to iFrame
+2025-01-06 13:48:19,713 [main] INFO CPBStage - click Edit
+2025-01-06 13:48:22,838 [main] INFO CPBStage - click Admin Mode
+2025-01-06 13:48:25,982 [main] INFO CPBStage - click on reorder toggle
+2025-01-06 13:48:29,167 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-01-06 13:48:29,167 [main] INFO CPBStage - Test passed
+2025-01-06 13:48:37,569 [main] INFO CPBStage - open stage site
+2025-01-06 13:48:37,627 [main] INFO CPBStage - switch to iFrame
+2025-01-06 13:49:02,871 [main] INFO CPBStage - Clone
+2025-01-06 13:49:36,359 [main] INFO CPBStage - Delete Clone
+2025-01-06 15:20:00,300 [main] INFO CPBStage - open stage site
+2025-01-06 15:20:00,432 [main] INFO CPBStage - switch to iFrame
+2025-01-06 15:20:25,694 [main] INFO CPBStage - Clone
+2025-01-06 15:22:49,870 [main] INFO CPBStage - open stage site
+2025-01-06 15:22:49,969 [main] INFO CPBStage - switch to iFrame
+2025-01-06 15:23:15,250 [main] INFO CPBStage - Clone
+2025-01-06 15:23:48,875 [main] INFO CPBStage - Delete Clone
+2025-01-06 21:41:54,478 [main] INFO CPBStage - open stage site
+2025-01-06 21:41:54,655 [main] INFO CPBStage - switch to iFrame
+2025-01-06 21:42:19,876 [main] INFO CPBStage - Clone
+2025-01-06 21:42:53,458 [main] INFO CPBStage - Delete Clone
+2025-02-10 00:04:29,814 [main] INFO CPBStage - open stage site
+2025-02-10 00:04:29,974 [main] INFO CPBStage - switch to iFrame
+2025-02-10 00:04:40,316 [main] INFO CPBStage - click Edit
+2025-02-10 00:04:43,463 [main] INFO CPBStage - click Admin Mode
+2025-02-10 00:04:46,659 [main] INFO CPBStage - click on New Custom Option
+2025-02-10 00:04:47,174 [main] INFO CPBStage - test failed
+2025-02-10 00:04:55,389 [main] INFO CPBStage - open stage site
+2025-02-10 00:04:58,475 [main] INFO CPBStage - switch to iFrame
+2025-02-10 00:05:08,778 [main] INFO CPBStage - click Edit
+2025-02-10 00:05:12,496 [main] INFO CPBStage - click Admin Mode
+2025-02-10 00:05:15,821 [main] INFO CPBStage - click on reorder toggle
+2025-02-10 00:05:19,059 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-02-10 00:05:19,060 [main] INFO CPBStage - Test passed
+2025-02-10 00:05:27,593 [main] INFO CPBStage - open stage site
+2025-02-10 00:05:27,638 [main] INFO CPBStage - switch to iFrame
+2025-02-10 00:05:52,990 [main] INFO CPBStage - Clone
+2025-02-10 00:06:26,685 [main] INFO CPBStage - Delete Clone
+2025-02-10 00:16:12,201 [main] INFO CPBStage - open stage site
+2025-02-10 00:16:12,350 [main] INFO CPBStage - switch to iFrame
+2025-02-10 00:16:22,715 [main] INFO CPBStage - click Edit
+2025-02-10 00:16:25,850 [main] INFO CPBStage - click Admin Mode
+2025-02-10 00:16:29,051 [main] INFO CPBStage - click on New Custom Option
+2025-02-10 00:16:29,456 [main] INFO CPBStage - test failed
+2025-02-10 00:16:37,760 [main] INFO CPBStage - open stage site
+2025-02-10 00:16:40,874 [main] INFO CPBStage - switch to iFrame
+2025-02-10 00:16:51,214 [main] INFO CPBStage - click Edit
+2025-02-10 00:16:54,357 [main] INFO CPBStage - click Admin Mode
+2025-02-10 00:16:57,494 [main] INFO CPBStage - click on reorder toggle
+2025-02-10 00:17:00,728 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-02-10 00:17:00,729 [main] INFO CPBStage - Test passed
+2025-02-10 00:17:08,822 [main] INFO CPBStage - open stage site
+2025-02-10 00:17:08,890 [main] INFO CPBStage - switch to iFrame
+2025-02-10 00:17:34,217 [main] INFO CPBStage - Clone
+2025-02-10 00:18:07,858 [main] INFO CPBStage - Delete Clone
+2025-02-10 00:22:03,100 [main] INFO CPBStage - open stage site
+2025-02-10 00:22:03,255 [main] INFO CPBStage - switch to iFrame
+2025-02-10 00:22:28,690 [main] INFO CPBStage - Clone
+2025-02-10 00:23:28,859 [main] INFO CPBStage - open stage site
+2025-02-10 00:23:29,018 [main] INFO CPBStage - switch to iFrame
+2025-02-10 00:23:39,431 [main] INFO CPBStage - click Edit
+2025-02-10 00:23:43,503 [main] INFO CPBStage - click Admin Mode
+2025-02-10 00:23:46,664 [main] INFO CPBStage - click on New Custom Option
+2025-02-10 00:23:47,278 [main] INFO CPBStage - test failed
+2025-02-10 00:23:56,860 [main] INFO CPBStage - open stage site
+2025-02-10 00:23:59,961 [main] INFO CPBStage - switch to iFrame
+2025-02-10 00:24:10,272 [main] INFO CPBStage - click Edit
+2025-02-10 00:24:13,404 [main] INFO CPBStage - click Admin Mode
+2025-02-10 00:24:16,548 [main] INFO CPBStage - click on reorder toggle
+2025-02-10 00:24:19,737 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-02-10 00:24:19,738 [main] INFO CPBStage - Test passed
+2025-02-10 00:24:28,260 [main] INFO CPBStage - open stage site
+2025-02-10 00:24:28,314 [main] INFO CPBStage - switch to iFrame
+2025-02-10 00:24:53,672 [main] INFO CPBStage - Clone
+2025-02-12 00:08:19,155 [main] INFO CPBStage - open stage site
+2025-02-12 00:08:19,345 [main] INFO CPBStage - switch to iFrame
+2025-02-12 00:08:29,683 [main] INFO CPBStage - click Edit
+2025-02-12 00:08:33,437 [main] INFO CPBStage - click Admin Mode
+2025-02-12 00:08:43,667 [main] INFO CPBStage - click on New Custom Option
+2025-02-12 00:08:44,150 [main] INFO CPBStage - test failed
+2025-02-12 00:08:52,851 [main] INFO CPBStage - open stage site
+2025-02-12 00:08:55,929 [main] INFO CPBStage - switch to iFrame
+2025-02-12 00:09:06,308 [main] INFO CPBStage - click Edit
+2025-02-12 00:09:10,021 [main] INFO CPBStage - click Admin Mode
+2025-02-12 00:09:13,154 [main] INFO CPBStage - click on reorder toggle
+2025-02-12 00:09:16,407 [main] INFO CPBStage - Reorder Mode is ON text presented
+2025-02-12 00:09:16,408 [main] INFO CPBStage - Test passed
+2025-02-12 00:09:24,824 [main] INFO CPBStage - open stage site
+2025-02-12 00:09:24,909 [main] INFO CPBStage - switch to iFrame
+2025-02-12 00:09:50,321 [main] INFO CPBStage - Clone
+2025-02-12 00:10:20,745 [main] INFO CPBStage - Cloned Product is exist
+2025-02-12 00:10:24,024 [main] INFO CPBStage - Delete Clone
+2025-02-12 00:10:32,257 [main] INFO CPBStage - Clone is deleted
+2025-02-12 00:10:37,715 [main] INFO CPBStage - Clone is not exist anymore
+2025-02-12 00:10:37,716 [main] INFO CPBStage - Test is passed
