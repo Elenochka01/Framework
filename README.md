@@ -2,18 +2,19 @@
 ---
 ### **Project Description**
 
-This project presents a custom-built Selenium automation framework developed in **Java**, designed to test and validate the functionality of a web application. The framework was created from scratch and demonstrates a modular, scalable, and maintainable test structure using industry best practices.
+This project presents a custom Selenium automation framework developed in **Java**, designed to test and validate the functionality of a web application. The framework is structured for scalability, maintainability, and clarity, making it suitable for both small test suites and enterprise-level testing.
 
-The framework follows the **Page Object Model (POM)** design pattern to separate test logic from element locators, improving readability and making it easy to maintain and scale as the application grows.
+The project follows the **Page Object Model (POM)** design pattern, where each web page is represented as a separate class under the `pageObjects` package. This approach ensures that locators and page actions are logically organized and easy to maintain as the application evolves.
 
 Key features include:
 
-* Centralized **Locators class** to store XPath expressions and element paths, reducing redundancy and simplifying maintenance.
-* Use of **WebDriverWait** to handle dynamic elements and ensure stable test execution.
-* Clean and well-organized code structure with reusable methods for better code efficiency.
-* Designed for easy integration into CI/CD pipelines for automated regression testing.
+* Modular structure with dedicated packages for **page objects**, **test cases**, **test data**, and **utilities**.
+* Use of `WebDriverWait` to handle dynamic content and improve test stability.
+* A shared **BaseClass** that manages WebDriver setup, teardown, and reusable configuration.
+* Integration-ready design for CI/CD pipelines and reporting tools like **ExtentReports**.
+* Well-organized test scripts for specific use cases (e.g., `CPB15`, `CPB16`, `CPB49CloneProduct`) under `testCases`.
 
-This project serves as a strong foundation for future automation work and showcases good practices in building UI test frameworks from the ground up.
+This framework serves as a solid foundation for automated testing in Agile teams, supporting continuous delivery with reliable UI validation.
 
 ---
 
@@ -23,7 +24,7 @@ This project serves as a strong foundation for future automation work and showca
 * **Automation Framework:** Selenium WebDriver
 * **IDE:** IntelliJ IDEA
 * **Build Tool:** Maven
-* **Locator Strategy:** XPath (stored in centralized `Locators.java`)
-* **Wait Strategy:** WebDriverWait
 * **Design Pattern:** Page Object Model (POM)
+* **Wait Strategy:** WebDriverWait
+* **Reporting:** ExtentReports
 * **Operating System:** Windows 10
