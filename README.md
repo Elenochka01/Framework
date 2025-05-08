@@ -12,7 +12,6 @@ Key features include:
 * Use of `WebDriverWait` to handle dynamic content and improve test stability.
 * A shared **BaseClass** that manages WebDriver setup, teardown, and reusable configuration.
 * Integration-ready design for CI/CD pipelines and reporting tools like **ExtentReports**.
-* Well-organized test scripts for specific use cases (e.g., `CPB15`, `CPB16`, `CPB49CloneProduct`) under `testCases`.
 
 This framework serves as a solid foundation for automated testing in Agile teams, supporting continuous delivery with reliable UI validation.
 
